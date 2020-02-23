@@ -6,3 +6,9 @@ The project is based on incremental development.
 
 #At rtl6, the move instructions are implemented.
 
+#At rtl7, Arithmetric instruction and pipeline stall are realized.
+
+#At rtl8, jump instruction and delay slot are realized.
+
+#At rtl9, load and store instructions are realized.
+
