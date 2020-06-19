@@ -40,7 +40,7 @@ You can download the prebuilt package, unpack it, set your path to it’s top le
 - Test
 Open Terminal, input:
 
-     mips-sde-elf-
+      mips-sde-elf-
 
 Then, double click TAB. If it is installed succesfully, then it outputs as followed picture: 
                 
