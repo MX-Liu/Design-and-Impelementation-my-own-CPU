@@ -43,6 +43,7 @@ Open Terminal, input:
       mips-sde-elf-
 
 Then, double click TAB. If it is installed succesfully, then it outputs as followed picture: 
+![alt text](https://github.com/MX-Liu/Design-and-Impelementation-my-own-CPU/tree/master/pictures/mips_compiler_test.jpg?raw=true)
                 
                
  
