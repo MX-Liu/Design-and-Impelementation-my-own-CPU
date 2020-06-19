@@ -29,8 +29,21 @@ You can download the prebuilt package, unpack it, set your path to it’s top le
  - Download this tar file: Mips_linux_toolchain_bin-1.1.tar.bz2(https://www.mips.com/files/mips-linux-toolchain-bin-1-1-tar-bz2/);
  - Unpack the tar file to the /opt folder:
  
-                cd /opt
-                tar vfxj Mips_linux_toolchain_bin-1.1.tar.bz2
+        cd /opt
+        tar vfxj Mips_linux_toolchain_bin-1.1.tar.bz2
+         
+ - Add the bin folder to the path:
+ Open a hidden file .bash under home folder, add this command:
+ 
+     export PATH=/opt/mips_linux_toolchain/bin:$PATH
+     
+- Test
+Open Terminal, input:
+
+     mips-sde-elf-
+
+Then, double click TAB. If it is installed succesfully, then it outputs as followed picture: 
+                
                
  
       
