@@ -46,7 +46,7 @@ Then, double click TAB. If it is installed succesfully, then it outputs as follo
 
 ![alt text](https://github.com/MX-Liu/Design-and-Impelementation-my-own-CPU/tree/master/pictures/mips_compiler_test.png)
                 
-               
+<img src=“https://github.com/MX-Liu/Design-and-Impelementation-my-own-CPU/tree/master/pictures/mips_compiler_test.png">            
  
       
 
