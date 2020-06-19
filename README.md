@@ -28,8 +28,9 @@ Ubuntu 16.04
 2. Install GNU tool chain
 You can download the prebuilt package, unpack it, set your path to it’s top level bin directory and begin to use it. If you unpack the package to a folder different from “/opt“, you will have to manually point to the sysroot folder using “–sysroot” command line option on each gcc invocation.
 
-- Download this tar file: Mips_linux_toolchain_bin-1.1.tar.bz2(https://www.mips.com/files/mips-linux-toolchain-bin-1-1-tar-bz2/);
-- Unpack the tar file to the /opt folder:
+ - Download this tar file: Mips_linux_toolchain_bin-1.1.tar.bz2(https://www.mips.com/files/mips-linux-toolchain-bin-1-1-tar-bz2/);
+ - Unpack the tar file to the /opt folder:
+ 
       cd /opt
       tar vfxj Mips_linux_toolchain_bin-1.1.tar.bz2
       
