@@ -1,6 +1,6 @@
 # Design-and-Impelementation-my-own-CPU
 
-The project is based on incremental development.
+The project is based on ncremental development model.
 
 #At rtl4, a primary five-stage pipeline is realized and the first instruction ori is implemented.
 
@@ -13,4 +13,6 @@ The project is based on incremental development.
 #At rtl8, jump instruction and delay slot are realized.
 
 #At rtl9, load and store instructions are realized.
+
+Create compilation of MIPS
 
