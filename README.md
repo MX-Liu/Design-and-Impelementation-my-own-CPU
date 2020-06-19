@@ -35,7 +35,7 @@ You can download the prebuilt package, unpack it, set your path to it’s top le
  - Add the bin folder to the path:
  Open a hidden file .bash under home folder, add this command:
  
-     export PATH=/opt/mips_linux_toolchain/bin:$PATH
+      export PATH=/opt/mips_linux_toolchain/bin:$PATH
      
 - Test
 Open Terminal, input:
