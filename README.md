@@ -14,5 +14,22 @@ The project is based on ncremental development model.
 
 #At rtl9, load and store instructions are realized.
 
-Create compilation of MIPS
+******************************************************************************************************
+Create Compiler Environment of the MIPS processor
+******************************************************************************************************
+
+Before designing this processor, I have planed it should be compatible with the architecture of MIPS32 instrustion set. Therefore, the existing GNU development tool chain under the MIPS32 architecture can be used.
+
+1. Operation System
+Ubuntu 16.04
+
+2. Install GNU tool chain
+
+
+
+
+
+
+
+
 
