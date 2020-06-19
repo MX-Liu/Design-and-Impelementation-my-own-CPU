@@ -28,9 +28,8 @@ You can download the prebuilt package, unpack it, set your path to it’s top le
 
  - Download this tar file: Mips_linux_toolchain_bin-1.1.tar.bz2(https://www.mips.com/files/mips-linux-toolchain-bin-1-1-tar-bz2/);
  - Unpack the tar file to the /opt folder:
- 
-      cd /opt
-      tar vfxj Mips_linux_toolchain_bin-1.1.tar.bz2
+                cd /opt
+                tar vfxj Mips_linux_toolchain_bin-1.1.tar.bz2
       
 
  
