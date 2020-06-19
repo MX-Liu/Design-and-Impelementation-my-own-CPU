@@ -1,4 +1,4 @@
--- The NEO430 Processor Project, by Stephan Nolting
+-- The MIPS Processor Project, by Mengxi Liu
 -- Auto-generated memory init file (for APPLICATION)
 
 library ieee;
