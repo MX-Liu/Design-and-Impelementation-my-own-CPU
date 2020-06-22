@@ -38,6 +38,7 @@ You can download the prebuilt package, unpack it, set your path to it’s top le
        export PATH=/opt/mips_linux_toolchain/bin:$PATH
      
 - Test
+
 Open Terminal, input:
 
       mips-sde-elf-
