@@ -5,15 +5,15 @@ The project is based on ncremental development model.
 
 - At rtl4, a primary five-stage pipeline is realized and the first instruction ori is implemented.
 
-- At rtl5, logical and shift instructions are realized, besides, the nop instruction is also realized.
+- At rtl5, logical and shift instructions are realized, besides, the nop instruction is also realized, such as: and, andi, or, ori, xor, xori, nor, lui, sll, sllv, sra, srav, srl, srlv and nop.
 
-- At rtl6, the move instructions are implemented.
+- At rtl6, the move instructions are implemented,such as movn, movz, mfhi, mthi, mflo and mtlo.
 
-- At rtl7, Arithmetric instruction and pipeline stall are realized.
+- At rtl7, Arithmetric instruction and pipeline stall are realized, such as add, addi, addiu, addu, sub, subu, clo, clz, slt, slti, sltiu, sltu, mul, mult, multu, div and divu.
 
-- At rtl8, jump instruction and delay slot are realized.
+- At rtl8, jump instruction and delay slot are realized， such as jr, jalr, j, jal, b, bal, beq, bgez, bgezal, bgtz, blez, bltz, bltz, bltzal and bne.
 
-- At rtl9, load and store instructions are realized.
+- At rtl9, load and store instructions are realized, such as lb, lbu, lh, lhu, ll, lw, lwl, lwr, sb, sc, sh, sw, swl and swr.
 
 
 ## Create Compiler Environment of the MIPS processor
