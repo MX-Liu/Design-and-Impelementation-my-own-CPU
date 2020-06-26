@@ -45,7 +45,7 @@ Open Terminal, input:
 
 Then, double click TAB. If it is installed succesfully, then it outputs as followed picture: 
                 
-![picture](https://github.com/MX-Liu/Design-and-Impelementation-my-own-CPU/tree/master/pictures/mips_compiler_test.png)           
+![picture](pictures/mips_compiler_test.png)           
  
       
 
