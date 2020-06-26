@@ -91,6 +91,10 @@ generate imgine.vhdl file
 Finally, the instruction written by assembely language is converted into a vhdl file as followed:
 
 ![picture](pictures/imagine.png) 
+
+## Make File
+
+In order to get the instruction VHDL file, 4 commands should be inputed into terminal. It is a little tedious. Therefore, I wrote a makefile to organize those command and files.
      
 ## Simulation
 
