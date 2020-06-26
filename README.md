@@ -43,11 +43,17 @@ Open Terminal, input:
 
       mips-sde-elf-
 
-Then, double click TAB. If it is installed succesfully, then it outputs as followed content: 
+Then, double click TAB. If it is installed successfully, then it outputs as following content: 
                 
 ![picture](pictures/mips_compiler_test.png)           
  
-      
+ Introduction of tool chain:
+ 
+ 1. mips-sde-elf-as: it is GNU Assembler (GAS), As compiles the assembly source program to generate the object file.
+ 2. mips-sde-elf-ld: it is GNU Linker, the object file nueeds to be linked by the linker and relocation data to generate an executable file.
+ 3. mips-sde-elf-objcopy: it is used to copy the target file in one format to another format.
+ 4. mips-sde-elf-objdump: print the information of binary files.
+ 5. mips-sde-elf-readelf: it is similar to objdumpy, but it can only process .elf file.
 
  
 
