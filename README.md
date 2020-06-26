@@ -96,7 +96,7 @@ Finally, the instruction written by assembely language is converted into a vhdl 
 
 The simulation tool used in this project is Modelsim. The testbench file name is tb_openmips_min_sopc.vhdl. The arctecture of the mini mips CPU is as the figure shows:
 
-
+![picture](pictures/test_result.png) 
  
 
  
