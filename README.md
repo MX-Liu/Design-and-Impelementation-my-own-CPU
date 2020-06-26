@@ -18,7 +18,7 @@ The project is based on ncremental development model.
 
 ## Create Compiler Environment of the MIPS processor
 
-Before designing this processor, I have planed it should be compatible with the architecture of MIPS32 instrustion set. Therefore, the existing GNU development tool chain under the MIPS32 architecture can be used.
+Before designing this processor, I have planed that it should be compatible with the architecture of MIPS32 instrustion set. Therefore, the existing GNU development tool chain under the MIPS32 architecture can be used. To test processor function, a compiler environment should be created at first.
 
 1. Operation System
 Ubuntu 16.04
@@ -54,6 +54,17 @@ Then, double click TAB. If it is installed successfully, then it outputs as foll
  3. mips-sde-elf-objcopy: it is used to copy the target file in one format to another format.
  4. mips-sde-elf-objdump: print the information of binary files.
  5. mips-sde-elf-readelf: it is similar to objdumpy, but it can only process .elf file.
+ 
+ ## Compiler assembly program by GNU tool chain
+ 
+The program to test the designed processor is writen by assmbly language which is compiled by GAS to generate object file, this file is a relocatable file. It can not be excuted yet. It should be converted into excutable file by Linker. 
+
+1. Compile assembly code.
+
+      mips-sde-elf-as -mips32 inst_rom.S -o inst_rom.o
+     
+
+ 
 
  
 
