@@ -98,7 +98,7 @@ In order to get the instruction VHDL file, 4 commands should be inputed into ter
      
 ## Simulation
 
-The simulation tool used in this project is Modelsim. The testbench file name is tb_openmips_min_sopc.vhdl. The arctecture of the mini mips CPU is as the figure shows:
+The simulation tool used in this project is Modelsim. The result of simulation is as the figure shows:
 
 ![picture](pictures/test_result.png) 
  
