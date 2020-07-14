@@ -1,5 +1,3 @@
--- The NEO430 Processor Project, by Stephan Nolting
--- Auto-generated memory init file (for APPLICATION)
 
 library ieee;
 use ieee.std_logic_1164.all;
