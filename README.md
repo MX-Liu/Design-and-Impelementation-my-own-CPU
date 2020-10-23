@@ -1,7 +1,7 @@
 # Design-and-Impelementation-my-own-CPU
 
 
-The project is based on ncremental development model.
+The project is based on incremental development model.
 
 - At rtl4, a primary five-stage pipeline is realized and the first instruction ori is implemented.
 
